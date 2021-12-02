@@ -1,0 +1,21 @@
+@import "variables";
+
+.header {
+  width: 100%;
+  max-width: 1280px;
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  padding: 20px 40px 17px;
+
+  &__heart-icon {
+    border-radius: 8px;
+    border: 2px solid $colorGreenSuccess;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .header {
+    padding: 20px 8px 17px;
+  }
+}

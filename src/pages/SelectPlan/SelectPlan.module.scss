@@ -1,0 +1,18 @@
+.select-plan {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+
+
+  &__welltory-image {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .select-plan {
+    padding: 0 8px;
+  }
+}

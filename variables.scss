@@ -1,0 +1,20 @@
+$colorBlackBlue: #151A22;
+$colorGreenSuccess: #52B692;
+$colorLightBlue: #89A3FF;
+$colorBlack: #151A22;
+$colorYellow: #EFDD36;
+
+@mixin regular-text($size, $line-height) {
+  font-family: 'Montserrat', 'sans-serif';
+  font-weight: normal;
+  font-size: $size;
+  line-height: $line-height;
+}
+
+@mixin buttonDefault() {
+  background: transparent;
+  border: none;
+  outline: 0;
+  padding: 0;
+  cursor: pointer;
+}
