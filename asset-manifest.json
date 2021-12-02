@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/welltory-test-task/static/css/main.0df93612.chunk.css",
+    "main.css": "/welltory-test-task/static/css/main.23d9cda6.chunk.css",
     "main.js": "/welltory-test-task/static/js/main.a3c74517.chunk.js",
     "main.js.map": "/welltory-test-task/static/js/main.a3c74517.chunk.js.map",
     "runtime-main.js": "/welltory-test-task/static/js/runtime-main.a9119aae.js",
@@ -8,7 +8,7 @@
     "static/js/2.2538b1c3.chunk.js": "/welltory-test-task/static/js/2.2538b1c3.chunk.js",
     "static/js/2.2538b1c3.chunk.js.map": "/welltory-test-task/static/js/2.2538b1c3.chunk.js.map",
     "index.html": "/welltory-test-task/index.html",
-    "static/css/main.0df93612.chunk.css.map": "/welltory-test-task/static/css/main.0df93612.chunk.css.map",
+    "static/css/main.23d9cda6.chunk.css.map": "/welltory-test-task/static/css/main.23d9cda6.chunk.css.map",
     "static/js/2.2538b1c3.chunk.js.LICENSE.txt": "/welltory-test-task/static/js/2.2538b1c3.chunk.js.LICENSE.txt",
     "static/media/app-store.f3483d16.svg": "/welltory-test-task/static/media/app-store.f3483d16.svg",
     "static/media/dash.79f3c66e.svg": "/welltory-test-task/static/media/dash.79f3c66e.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a9119aae.js",
     "static/js/2.2538b1c3.chunk.js",
-    "static/css/main.0df93612.chunk.css",
+    "static/css/main.23d9cda6.chunk.css",
     "static/js/main.a3c74517.chunk.js"
   ]
 }
