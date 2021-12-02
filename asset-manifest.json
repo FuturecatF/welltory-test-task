@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/welltory-test-task/static/css/main.0df93612.chunk.css",
+    "main.js": "/welltory-test-task/static/js/main.a3c74517.chunk.js",
+    "main.js.map": "/welltory-test-task/static/js/main.a3c74517.chunk.js.map",
+    "runtime-main.js": "/welltory-test-task/static/js/runtime-main.a9119aae.js",
+    "runtime-main.js.map": "/welltory-test-task/static/js/runtime-main.a9119aae.js.map",
+    "static/js/2.2538b1c3.chunk.js": "/welltory-test-task/static/js/2.2538b1c3.chunk.js",
+    "static/js/2.2538b1c3.chunk.js.map": "/welltory-test-task/static/js/2.2538b1c3.chunk.js.map",
+    "index.html": "/welltory-test-task/index.html",
+    "static/css/main.0df93612.chunk.css.map": "/welltory-test-task/static/css/main.0df93612.chunk.css.map",
+    "static/js/2.2538b1c3.chunk.js.LICENSE.txt": "/welltory-test-task/static/js/2.2538b1c3.chunk.js.LICENSE.txt",
+    "static/media/app-store.f3483d16.svg": "/welltory-test-task/static/media/app-store.f3483d16.svg",
+    "static/media/dash.79f3c66e.svg": "/welltory-test-task/static/media/dash.79f3c66e.svg",
+    "static/media/google-play.b60e3b6d.svg": "/welltory-test-task/static/media/google-play.b60e3b6d.svg",
+    "static/media/heart-logo.2884d697.svg": "/welltory-test-task/static/media/heart-logo.2884d697.svg",
+    "static/media/rectangle-changeplan.04053e37.svg": "/welltory-test-task/static/media/rectangle-changeplan.04053e37.svg",
+    "static/media/success.ca483f22.svg": "/welltory-test-task/static/media/success.ca483f22.svg",
+    "static/media/text-logo.d659962a.svg": "/welltory-test-task/static/media/text-logo.d659962a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9119aae.js",
+    "static/js/2.2538b1c3.chunk.js",
+    "static/css/main.0df93612.chunk.css",
+    "static/js/main.a3c74517.chunk.js"
+  ]
+}
